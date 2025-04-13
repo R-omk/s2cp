@@ -1,4 +1,4 @@
-module s2cp
+module github.com/R-omk/s2cp
 
 go 1.23
 
